@@ -1,0 +1,11 @@
+.icon-wrapper:hover .MuiSvgIcon-root {
+    color: red;
+    }
+
+.custom-border:focus {
+    border-color: rgb(231, 209, 6); 
+    }
+
+    .menu-item:hover {
+        background-color: #FABE4B;
+      }
